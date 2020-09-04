@@ -31,6 +31,6 @@ class CreateDownloadLinksTable extends Migration
     public function down()
     {
         Schema::dropIfExists('download_links');
-        Schema::dropIfExists('download_link_ip_address');
+        Schema::dropIfExists('download_link_ip_addresses');
     }
 }
