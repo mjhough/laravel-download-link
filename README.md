@@ -1,3 +1,7 @@
+We are all human and where we are born, what we believe, or how we identify should never be a barrier. This repo will be kept up to date with the upstream branch in support of this.
+
+<hr>
+
 # Generate download links in your Laravel applications
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/armancodes/laravel-download-link)](https://packagist.org/packages/armancodes/laravel-download-link)
